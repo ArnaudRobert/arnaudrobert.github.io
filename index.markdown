@@ -4,4 +4,4 @@
 layout: page
 title: About
 ---
-This is a paragraph about me.
+Welcome! I am a researcher in Reinforcement Learning. I am completing my PhD at Imperial College London under the supervision of Ciara Pike-Burke and Aldo Faisal.
